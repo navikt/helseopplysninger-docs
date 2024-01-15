@@ -1,2 +1,1 @@
-# helseopplysninger-docs
-Dokumentasjon for Team Helseopplysninger
+# Velkommen til dokumentasjon for Helseopplysninger i NAV
