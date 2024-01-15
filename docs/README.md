@@ -4,10 +4,10 @@ For effektiv utveksling av helseopplysninger mellom NAV og helseoperatører.
 
 ### Innholdsfortegnelse
 
-*[Oversikt](#oversikt)
-*[Kontekst](#kontekst)
-*[Mål](#Mål)
-*[Support](#support)
+* [Oversikt](#oversikt)
+* [Kontekst](#kontekst)
+* [Mål](#Mål)
+* [Support](#support)
 
 ## Oversikt
 
