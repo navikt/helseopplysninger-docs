@@ -1,4 +1,4 @@
-# Helseopplysninger på NAV
+# Helseopplysninger på NAV.
 
 For effektiv utveksling av helseopplysninger mellom NAV og helseoperatører.
 
