@@ -12,7 +12,23 @@ Dokumentere alternativer for interasjon med EPJ (i første omgang DIPS Arena) ve
 
 Beskriv de forskjellige løsningsalternativene
 
-### 1) Alternativ 1
+### 1) Kalle EPJ (FHIR server) direkte fra nettleser
+
+Ta gjerne med en skisse hvis det er aktuelt
+
+#### Fordeler:
+
+#### Ulemper:
+
+### 2)  Kalle EPJ (FHIR server) fra backend
+
+Ta gjerne med en skisse hvis det er aktuelt
+
+#### Fordeler:
+
+#### Ulemper:
+
+### 3)  Kalle EPJ (FHIR server) fra via proxy
 
 Ta gjerne med en skisse hvis det er aktuelt
 
