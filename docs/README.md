@@ -24,4 +24,8 @@ Applikasjonen skal løse problemer i hele verdikjeden, ikke bare NAV sine behov.
 
 ## Support
 
+## ADR
+
+[Integrasjon med EPJ](adr/arkitektur)
+
 Teamet kan kontaktes på [Slack](https://app.slack.com/client/T5LNAMWNA/C01AQTAU3CH).
