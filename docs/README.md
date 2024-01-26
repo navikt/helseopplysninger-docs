@@ -10,7 +10,7 @@ NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal erstatt
 ## Oversikt
 
 * [Eksisterende prosess](as-is)
-* [Kortsiktig løsning (versjon 0.5)](0.5)
+* [Kortsiktig løsning (versjon 0.5)](0-5)
 * [Målbilde](to-be)
 
 
