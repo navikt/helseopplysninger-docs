@@ -26,6 +26,8 @@ Applikasjonen skal løse problemer i hele verdikjeden, ikke bare NAV sine behov.
 
 ## ADR
 
-[Integrasjon med EPJ](adr/arkitektur)
+* [Integrasjon med EPJ](adr/arkitektur)
+* [Støtte flere versjoner og instanser av DIPS](adr/epj-instanser)
+* [Flere versjoner av SMART on FHIR applikasjon i prod og test](adr/versjoner)
 
 Teamet kan kontaktes på [Slack](https://app.slack.com/client/T5LNAMWNA/C01AQTAU3CH).
