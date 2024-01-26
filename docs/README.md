@@ -1,26 +1,23 @@
-# Helseopplysninger på NAV.
+# Digital legeerklæring: pleiepenger for sykt barn 
 
-For effektiv utveksling av helseopplysninger mellom NAV og helseoperatører.
-
+NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal erstatte [skjemaet](https://cdn.sanity.io/files/8ux9tyb9/production/549dc33c95aecd95b1bafb686ff988bfa0668151.pdf) som benyttes i dag. Den nye løsningen utvikles i samarbeid med Helse Vest og DIPS. 
 ### Innholdsfortegnelse
 
 * [Oversikt](#oversikt)
-* [Kontekst](#kontekst)
-* [Mål](#Mål)
+* [Teknisk dokumentasjon](#teknisk)
 * [Support](#support)
 
 ## Oversikt
 
-...
+* [Eksisterende prosess](as-is)
+* [Kortsiktig løsning (versjon 0.5)](0.5)
+* [Målbilde](to-be)
 
-## Kontekst
 
-...
+## Teknisk
 
-## Teknisk dokumentasjon
-
-Løsningen SKAL spare tid for helsearbeidere, saksbehandlere, og pasienter og omsorgspersoner.
-Applikasjonen skal løse problemer i hele verdikjeden, ikke bare NAV sine behov.
+* [Oppstart og innlogging](teknisk/oppstart)
+* [FHIR](teknisk/fhir)
 
 ### ADR
 
