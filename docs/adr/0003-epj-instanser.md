@@ -1,14 +1,15 @@
-# Støtte flere versjoner og instanser av DIPS 
+# Støtte flere versjoner og instanser av DIPS
 
 Dato: 2024-01-26
 
 ## Status
 
-Under arbeid 
+Under arbeid
 
 ## Kontekst
 
-Bakgrunn for denne ADR'en, hvilken utfordring er det som skal løses, og/eller hvorfor er det viktig med en beslutning på dette området
+Bakgrunn for denne ADR'en, hvilken utfordring er det som skal løses, og/eller hvorfor er det viktig med en beslutning på
+dette området
 
 ## Løsningsalternativer
 

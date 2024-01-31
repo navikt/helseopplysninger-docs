@@ -1,4 +1,4 @@
-# Flere versjoner av SMART on FHIR applikasjon i prod og test 
+# Flere versjoner av SMART on FHIR applikasjon i prod og test
 
 Dato: 2024-01-26
 
@@ -8,7 +8,8 @@ Under arbeid
 
 ## Kontekst
 
-Bakgrunn for denne ADR'en, hvilken utfordring er det som skal løses, og/eller hvorfor er det viktig med en beslutning på dette området
+Bakgrunn for denne ADR'en, hvilken utfordring er det som skal løses, og/eller hvorfor er det viktig med en beslutning på
+dette området
 
 ## Løsningsalternativer
 

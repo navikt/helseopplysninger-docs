@@ -7,8 +7,8 @@ benyttes i dag. Den nye løsningen utvikles i samarbeid med Helse Vest og DIPS.
 ### Innholdsfortegnelse
 
 * [Digital legeerklæring](#digital-legeerklæring-pleiepenger-for-sykt-barn)
-  * [Oversikt](#oversikt)
-  * [Support](#support)
+    * [Oversikt](#oversikt)
+    * [Support](#support)
 * [Eksisterende prosess](./as-is.md)
 * [Fremtidig løsning](./to-be.md)
 * [Teknisk dokumentasjon](./teknisk/TEKNISK.md)
