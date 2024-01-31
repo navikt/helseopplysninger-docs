@@ -1,8 +1,10 @@
-# Flere versjoner av SMART on FHIR applikasjon i prod og test 
+# Støtte flere versjoner og instanser av DIPS 
+
+Dato: 2024-01-26
 
 ## Status
 
-Under arbeid
+Under arbeid 
 
 ## Kontekst
 
