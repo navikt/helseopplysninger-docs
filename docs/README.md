@@ -1,8 +1,7 @@
 # Digital legeerklæring: pleiepenger for sykt barn
 
 NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal
-erstatte [skjemaet](https://cdn.sanity.io/files/8ux9tyb9/production/549dc33c95aecd95b1bafb686ff988bfa0668151.pdf) som
-benyttes i dag. Den nye løsningen utvikles i samarbeid med Helse Vest og DIPS.
+erstatte [dagens skjema](resources/legeerklæring-og-veiledning-pleiepenger-sykt-barn.jpg). Den nye løsningen utvikles i samarbeid med Helse Vest og DIPS.
 
 ### Innholdsfortegnelse
 
