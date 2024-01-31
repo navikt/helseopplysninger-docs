@@ -4,9 +4,9 @@ Denne seksjonen inneholder oversikt over alle ADR for Team Helseopplysninger.
 
 ## ADR
 
-1. [Integrasjon med EPJ](./adr/0001-integrasjon-med-epj)
-2. [SMART on FHIR versjoner](./adr/0002-smart-on-fhir-versjoner.md)
-3. [EPJ instanser](./adr/0003-epj-instanser.md)
+1. [Integrasjon med EPJ](./0001-integrasjon-med-epj.md)
+2. [SMART on FHIR versjoner](./0002-smart-on-fhir-versjoner.md)
+3. [EPJ instanser](./0003-epj-instanser.md)
 
 ## Bidra
 
