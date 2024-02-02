@@ -4,10 +4,12 @@
 
 layout: home
 ---
+
 # Digital legeerklæring: pleiepenger for sykt barn
 
 NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal
-erstatte [dagens skjema](resources/legeerklæring-og-veiledning-pleiepenger-sykt-barn.jpg). Den nye løsningen utvikles i samarbeid med Helse Vest og DIPS.
+erstatte [dagens skjema](resources/legeerklæring-og-veiledning-pleiepenger-sykt-barn.jpg). Den nye løsningen utvikles i
+samarbeid med Helse Vest og DIPS.
 
 ### Innholdsfortegnelse
 
@@ -28,7 +30,8 @@ oppfylt.
 
 I [dag](as-is.md) skriver lege ut en legeerklæring i EPJ og overlever denne til omsorgsperson (som oftest foreldre) som
 igjen leverer denne til NAV sammen med søknad om pleiepneger for sykt barn. Målet med den nye løsningen er at
-legeerklæringen skal [sendes automatisk fra lege til NAV](to-be.md). Men da det er en del juridiske avklaringer som må på
+legeerklæringen skal [sendes automatisk fra lege til NAV](to-be.md). Men da det er en del juridiske avklaringer som må
+på
 plass før vi kan lansere denne løsningen har vi besluttet å produksjonsette en [midlertidig løsning](0-5.md). I den
 midlertidige løsningen vil lege skrive legeerklæring i en ny applikasjon utviklet av NAV i EPJ, og deretter overlevere
 den til omsorgsperson slik som i dag. Fordelen med den midlertidige løsningen er at alle aktører (NAV, Helse Vest og

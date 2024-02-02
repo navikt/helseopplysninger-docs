@@ -23,9 +23,10 @@ email: erik.haug@nav.no
 description: >- # this means to ignore newlines until "baseurl:"
   Dette er et dokumentasjonsrepo for arbeid knyttet til Team Helseopplysninger.
   Dokumentasjon bruker GitHub Pages og kan finnes på NAV GitHub.
-baseurl: "/helseopplysninger-docs"
-url: "https://navikt.github.io"
-github_username:  teams/helseopplysninger
+domain: navikt.github.io
+url: https://navikt.github.io
+baseurl: /helseopplysninger-docs/
+github_username: teams/helseopplysninger
 
 # Build settings
 theme: minima
