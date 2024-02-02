@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 # Digital legeerklæring: pleiepenger for sykt barn
 
 NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal
