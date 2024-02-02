@@ -4,8 +4,8 @@ Denne seksjonen inneholder oversikt over teknisk dokumentasjon for Team Helseopp
 
 ## Dokumenter
 
-1. [Oppstart og innlogging](./oppstart-og-innlogging.md)
-2. [FHIR](./fhir.md)
+1. [Oppstart og innlogging](oppstart-og-innlogging.md)
+2. [FHIR](fhir.md)
 
 ## Bidra
 
