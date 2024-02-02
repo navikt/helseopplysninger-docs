@@ -28,7 +28,7 @@ url: "https://navikt.github.io"
 github_username:  teams/helseopplysninger
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
