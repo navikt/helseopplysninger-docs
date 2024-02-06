@@ -1,3 +1,10 @@
+---
+layout: default
+nav_order: 3
+parent: Teknisk dokumentasjon
+---
+# Oppstart og innlogging
+
 ```mermaid
 sequenceDiagram
     participant EPJ as DIPS Arena

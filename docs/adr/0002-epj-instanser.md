@@ -1,6 +1,11 @@
-# Støtte flere versjoner og instanser av DIPS
-
-Dato: 2024-01-26
+---
+title: "Støtte flere versjoner og instanser av DIPS"
+date: 2024-01-26
+categories: [ADR]
+author: "Erik Haug"
+parent: ADR
+nav_order: 2
+---
 
 ## Status
 

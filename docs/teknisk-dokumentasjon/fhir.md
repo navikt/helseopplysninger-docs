@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 2
+parent: Teknisk dokumentasjon
+---
 # FHIR kall mot EPJ
 
 ## Patient

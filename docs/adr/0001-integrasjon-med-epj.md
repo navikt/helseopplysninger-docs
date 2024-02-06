@@ -1,7 +1,11 @@
-# Integrasjon med EPJ
-
-Dato: 2024-01-19
-
+---
+title: "Integrasjon med EPJ"
+date: 2024-01-19
+categories: [ADR]
+author: "Erik Haug"
+parent: ADR
+nav_order: 1
+---
 ## Status
 
 Under arbeid

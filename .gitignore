@@ -7,3 +7,22 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Bundler cache
+.bundle
+vendor
+docs/Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# Misc
+docs/assets/js/dist

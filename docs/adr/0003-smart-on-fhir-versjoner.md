@@ -1,7 +1,11 @@
-# Flere versjoner av SMART on FHIR applikasjon i prod og test
-
-Dato: 2024-01-26
-
+---
+title: "Flere versjoner av SMART on FHIR applikasjon i prod og test"
+date: 2024-01-26
+categories: [ADR]
+author: "Erik Haug"
+parent: ADR
+nav_order: 3
+---
 ## Status
 
 Under arbeid

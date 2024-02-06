@@ -1,24 +1,28 @@
+---
+layout: default
+nav_order: 1
+parent: Teknisk dokumentasjon
+---
+
 # Eksisterende prosess
-
-### Innholdsfortegnelse
-
-* [Dataflyt](#dataflyt)
-* [Legeerklæring](#legeerklæring)
 
 ## Dataflyt
 
 ![as-is](https://github.com/navikt/helseopplysninger-docs/assets/130694937/c98e688e-3c82-46a5-ae10-01e19a764df8)
 
 1. Lege i spesialisthelsetjenesten (sykehus) skriver
-   en  [legeerklæring](https://cdn.sanity.io/files/8ux9tyb9/production/549dc33c95aecd95b1bafb686ff988bfa0668151.pdf) i
-   de tilfeller det er, eller kan være, relevant for omsorgspersoner (som oftest foreldre) å søke om pleiepenger. I alle
-   tilfeller dreier det som et sykt barn, men alvorlighet og tidsperspektiv på diagnose kan variere fra beinbrudd til
-   palliativ behandling. Vår innsikt så lang viser at kan være flere «triggere» til at leggerklæringen fylles ut:
+   en legeerklæring i de tilfeller det er, eller kan være, relevant for omsorgspersoner (som oftest foreldre) å søke om
+   pleiepenger. I alle tilfeller dreier det som et sykt barn, men alvorlighet og tidsperspektiv på diagnose kan variere
+   fra beinbrudd til palliativ behandling. Vår innsikt så lang viser at kan være flere «triggere» til at leggerklæringen
+   fylles ut:
 
 * Rutiner på sykehus som medfører at det alltid fylles ut en legeerklæring ved innleggelse på nyfødtintensiven.
 * Foreldre ber om legeerklæring, særlig vanlig ved behov for legeerklæring til forlengelse av pleiepenger.
 * Sosionom eller andre på sykehus ber lege fylle ut legeerklæring.
 * Sikkert andre årsaker også som vi p.t. ikke kjenner til.
+
+Dagens skjema ser slik ut:
+![legeerklæring](../assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg)
 
 2. Legerklæringen fylles ut som oftest ut via en "skjemamotor" i EPJ (Elektronisk Pasientjournal – DIPS Arena eller
    EPIC), og journalføres som PDF eller Word i EPJ.
