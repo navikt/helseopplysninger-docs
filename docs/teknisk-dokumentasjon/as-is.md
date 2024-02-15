@@ -1,7 +1,8 @@
 ---
+title: "Eksisterende prosess"
 layout: default
 nav_order: 1
-parent: Teknisk dokumentasjon
+parent: Digital legeerklæring
 ---
 
 # Eksisterende prosess
