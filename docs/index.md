@@ -3,6 +3,7 @@ title: Digital legeerklæring
 nav_order: 1
 layout: default
 has_toc: true
+has_children: true
 # Index page
 ---
 
