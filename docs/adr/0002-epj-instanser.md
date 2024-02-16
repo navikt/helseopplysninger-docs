@@ -27,7 +27,7 @@ dette området
 
 Beskriv de forskjellige løsningsalternativene
 
-### 1) Alternativ 1
+### 1) Alternativ 1.....
 
 Ta gjerne med en skisse hvis det er aktuelt
 
