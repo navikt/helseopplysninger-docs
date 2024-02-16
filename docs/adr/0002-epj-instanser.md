@@ -1,5 +1,5 @@
 ---
-title: "Versjonshåndtering"
+title: "Flere EPJ instanser"
 parent: ADR
 grand_parent: Teknisk dokumentasjon
 nav_order: 2
