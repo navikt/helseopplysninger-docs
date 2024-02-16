@@ -5,6 +5,13 @@ grand_parent: Teknisk dokumentasjon
 nav_order: 3
 ---
 # ADR: Flere versjoner av SMART on FHIR applikasjon i prod og test
+{: .no_toc }
+
+### Innholdsfortegnelse
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Status
 
