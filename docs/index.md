@@ -13,7 +13,8 @@ NAV utvikler en digital legeerklæring for pleiepenger som på sikt skal
 erstatte [dagens skjema](assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg). Den nye løsningen utvikles i
 samarbeid med [Helse Vest](https://www.helse-vest.no/) og [DIPS](https://www.dips.com/).
 
-## Oversikt
+Mer informasjon om pleiepenger for sykt barn finnes på [nav.no](https://www.nav.no/pleiepenger-barn), og i [folketrygdlovens kapittel 9](https://lovdata.no/pro/lov/1997-02-28-19/§9-10).
+
 Pleiepenger for sykt barn er en stønadsordning for omsorgspersoner som må være borte fra jobb for å ta vare på et barn som trenger kontinuerlig tilsyn og pleie på grunn av sykdom. Barnet må ha vært til behandling eller utredning i sykehus eller annen spesialisthelsetjeneste, og det er ingen tidsbegrensning for hvor lenge man kan motta pleiepenger når alle vilkårene er oppfylt.
 
 I [dag](funksjonell-dokumentasjon/as-is.md) benyttes en manuell prosess hvor leger utsteder legeerklæringer i EPJ-systemer. Disse erklæringene overleveres deretter til omsorgspersoner, vanligvis foreldre, for videre levering til NAV i forbindelse med søknader om pleiepenger for sykt barn. [Målet](funksjonell-dokumentasjon/to-be.md) med den nye løsningen er å automatisere denne prosessen ved å etablere en direkte elektronisk overføring av legeerklæringen fra legen til NAV. Dette vil effektivisere og forenkle søknadsprosessen betydelig, og samtidig sikre raskere og mer nøyaktig behandling av søknader om pleiepenger for sykt barn.
