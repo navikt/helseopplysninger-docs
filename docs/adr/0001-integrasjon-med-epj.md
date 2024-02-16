@@ -7,7 +7,7 @@ nav_order: 1
 # ADR: Integrasjon med EPJ
 {: .no_toc }
 
-## Innholdsfortegnelse
+### Innholdsfortegnelse
 {: .no_toc }
 
 - TOC
