@@ -3,7 +3,7 @@ title: "Integrasjon med EPJ"
 date: 2024-01-19
 categories: [ADR]
 author: "Erik Haug"
-parent: ADR
+parent: Teknisk dokumentasjon/ADR
 nav_order: 1
 ---
 ## Status
