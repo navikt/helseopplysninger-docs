@@ -1,5 +1,5 @@
 ---
-title: Risiko- og sårbarhetsanalyse
+title: Risiko- og sårbarhetsanalyse (ROS)
 layout: default
 nav_order: 4
 has_toc: false
