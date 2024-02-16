@@ -1,11 +1,11 @@
 ---
-title: "Støtte flere versjoner og instanser av DIPS"
-date: 2024-01-26
-categories: [ADR]
-author: "Erik Haug"
+title: "Versjonshåndtering"
 parent: ADR
+grand_parent: Teknisk dokumentasjon
 nav_order: 2
 ---
+
+# Støtte flere versjoner og instanser av DIPS
 
 ## Status
 
