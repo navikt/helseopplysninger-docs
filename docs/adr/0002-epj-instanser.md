@@ -6,6 +6,13 @@ nav_order: 2
 ---
 
 # ADR: Støtte flere versjoner og instanser av DIPS
+{: .no_toc }
+
+### Innholdsfortegnelse
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Status
 
