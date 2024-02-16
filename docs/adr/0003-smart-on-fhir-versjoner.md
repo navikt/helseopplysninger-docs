@@ -1,11 +1,11 @@
 ---
-title: "Flere versjoner av SMART on FHIR applikasjon i prod og test"
-date: 2024-01-26
-categories: [ADR]
-author: "Erik Haug"
+title: "Versjonshåndtering"
 parent: ADR
+grand_parent: Teknisk dokumentasjon
 nav_order: 3
 ---
+# ADR: Flere versjoner av SMART on FHIR applikasjon i prod og test
+
 ## Status
 
 Under arbeid
