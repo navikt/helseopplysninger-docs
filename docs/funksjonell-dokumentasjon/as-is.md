@@ -6,6 +6,13 @@ parent: Digital legeerklæring
 ---
 
 # Eksisterende prosess
+{: .no_toc }
+
+### Innholdsfortegnelse
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Dataflyt
 
