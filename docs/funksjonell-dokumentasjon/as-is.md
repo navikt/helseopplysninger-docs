@@ -11,39 +11,19 @@ parent: Digital legeerklæring
 
 ![as-is](https://github.com/navikt/helseopplysninger-docs/assets/130694937/c98e688e-3c82-46a5-ae10-01e19a764df8)
 
-1. Lege i spesialisthelsetjenesten (sykehus) skriver
-   en legeerklæring i de tilfeller det er, eller kan være, relevant for omsorgspersoner (som oftest foreldre) å søke om
-   pleiepenger. I alle tilfeller dreier det som et sykt barn, men alvorlighet og tidsperspektiv på diagnose kan variere
-   fra beinbrudd til palliativ behandling. Vår innsikt så lang viser at kan være flere «triggere» til at leggerklæringen
-   fylles ut:
 
-* Rutiner på sykehus som medfører at det alltid fylles ut en legeerklæring ved innleggelse på nyfødtintensiven.
-* Foreldre ber om legeerklæring, særlig vanlig ved behov for legeerklæring til forlengelse av pleiepenger.
-* Sosionom eller andre på sykehus ber lege fylle ut legeerklæring.
-* Sikkert andre årsaker også som vi p.t. ikke kjenner til.
+1. En lege i spesialisthelsetjenesten, for eksempel på et sykehus, skriver en legeerklæring når det er relevant for omsorgspersoner, som vanligvis er foreldre, å søke om pleiepenger for et sykt barn. Årsakene til at legeerklæringen fylles ut kan variere og inkluderer rutinemessig utfylling ved innleggelse på nyfødtintensiven, forespørsler fra foreldre, helsepersonell som sosionomer, eller andre årsaker som ikke nødvendigvis er kjent.
 
-Dagens skjema ser slik ut:
-![legeerklæring](../assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg)
+2. Legeerklæringen fylles vanligvis ut ved hjelp av en skjemamotor i EPJ (Elektronisk Pasientjournal) som DIPS Arena eller EPIC, og dokumentet journalføres deretter som enten en PDF eller Word-fil i EPJ-systemet.
 
-2. Legerklæringen fylles ut som oftest ut via en "skjemamotor" i EPJ (Elektronisk Pasientjournal – DIPS Arena eller
-   EPIC), og journalføres som PDF eller Word i EPJ.
-3. Legeerklæringen leveres deretter til omsorgsperson/foreldre. Dette skjer på forskjellige måter avhengig av barnets
-   alder og rutiner på det enkelte sykehus/avdeling, bla:
+3. Legeerklæringen overleveres deretter til omsorgspersonen eller foreldrene til det syke barnet. Dette kan skje på ulike måter avhengig av barnets alder og rutiner ved det aktuelle sykehuset eller avdelingen. Dette kan inkludere utskrift på papir som overleveres på sykehuset eller sendes i posten, journalføring av legeerklæringen på barnets helsejournal som foreldrene kan få tilgang til via helsenorge.no hvis barnet er under 12 år, eller sending av legeerklæringen per e-post til foreldrene.
 
-* Utskrift på papir overleveres på sykehuset, evt. sendes i posten.
-* Legeerklæringen journalføres på barnet og foreldre kan hente denne på helsenorge.no hvis barnet er under 12 år.
-* Legeerklæring sendes til foreldre på mail?
-* I noen tilfeller sender sykehus legeerklæring til NAV, men dette er kun unntaksvis.
+4. Omsorgspersonen søker deretter om pleiepenger hos NAV og legger ved legeerklæringen enten ved søknadstidspunktet eller ettersender den senere. Det er viktig å merke seg at personen som mottar legeerklæringen ikke nødvendigvis er den samme som søker om pleiepenger. For eksempel kan mor motta legeerklæringen, men det er faren som søker om pleiepenger, og vice versa. I noen tilfeller kan også andre personer, som for eksempel besteforeldre, søke om og få innvilget pleiepenger.
 
-4. Omsorgsperson søker om pleiepenger og legger ved legeerklæringen på søknadstidspunktet eller ettersender den. Her er
-   det verdt å påpeke at den personen som har mottatt legeerklæring ikke nødvendigvis er den samme som søker. Mor kan
-   motta legeerklæring og far kan søke, og vice versa. I noen tilfeller er det også andre personer, f.eks.
-   besteforeldre, som søker om og får innvilget pleiepenger.
-5. Det opprettes en sak på søker/omsorgsperson og legeerklæringen journalføres sammen andre saksdokumenter på søker. I
-   de tilfeller det er flere personer som søker om pleiepenger for samme barn opprettes det egne saker for hver person,
-   men legeerklæring deles mellom sakene i K9 (Saksbehandlingsløsning for pleiepenger).
+5. Det opprettes en sak på omsorgspersonen eller søkeren, og legeerklæringen journalføres sammen med andre dokumenter i saksbehandlingssystemet for pleiepenger. Hvis det er flere personer som søker om pleiepenger for samme barn, opprettes det separate saker for hver person, men legeerklæringen deles mellom sakene i saksbehandlingssystemet.
 
 ## Legeerklæring
+![legeerklæring](../assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg)
 
 Mer utfyllende informasjon om den eksisterende legeerklæringen finnes
 på [nav.no](https://www.nav.no/samarbeidspartner/pleiepenger-barn#legeerklering-pleiepenger).
