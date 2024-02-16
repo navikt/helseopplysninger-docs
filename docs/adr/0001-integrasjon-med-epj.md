@@ -6,6 +6,8 @@ nav_order: 1
 ---
 # ADR: Integrasjon med EPJ
 
+{:toc}
+
 ## Status
 
 Under arbeid
