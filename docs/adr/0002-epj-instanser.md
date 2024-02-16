@@ -5,7 +5,7 @@ grand_parent: Teknisk dokumentasjon
 nav_order: 2
 ---
 
-# Støtte flere versjoner og instanser av DIPS
+# ADR: Støtte flere versjoner og instanser av DIPS
 
 ## Status
 
