@@ -22,6 +22,8 @@ parent: Digital legeerklæring
 
 5. Det opprettes en sak på omsorgspersonen eller søkeren, og legeerklæringen journalføres sammen med andre dokumenter i saksbehandlingssystemet for pleiepenger. Hvis det er flere personer som søker om pleiepenger for samme barn, opprettes det separate saker for hver person, men legeerklæringen deles mellom sakene i saksbehandlingssystemet.
 
+6. Saksbehandler i NAV får tilgang til legeerklæringen ved saksbehandling av søkers sak.
+
 ## Legeerklæring
 ![legeerklæring](../assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg)
 
