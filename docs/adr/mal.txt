@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Tittel på ADR
 categories: [ADR] # Kan være flere, men la ADR stå
