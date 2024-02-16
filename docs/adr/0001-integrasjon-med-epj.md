@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 
 ## Innholdsfortegnelse
-{: .no_toc .text-delta }
+{: .no_toc }
 
 - TOC
 {:toc}
