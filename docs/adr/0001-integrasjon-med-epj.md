@@ -5,10 +5,12 @@ grand_parent: Teknisk dokumentasjon
 nav_order: 1
 ---
 # ADR: Integrasjon med EPJ
+{: .no_toc }
 
-Innholdsfortegnelse
+## Innholdsfortegnelse
+{: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ## Status
@@ -21,7 +23,7 @@ Dokumentere alternativer for interasjon med EPJ (i første omgang DIPS Arena) ve
 
 ## Løsningsalternativer
 
-Alternativene som har blit vurdert er beskrevet under. 
+Alternativene som har blit vurdert er beskrevet under.. 
 
 ### 1) Kalle EPJ (FHIR server) direkte fra nettleser
 
