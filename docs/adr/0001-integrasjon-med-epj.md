@@ -21,7 +21,7 @@ Dokumentere alternativer for interasjon med EPJ (i første omgang DIPS Arena) ve
 
 ## Løsningsalternativer
 
-Beskriv de forskjellige løsningsalternativene
+Alternativene som har blit vurdert er beskrevet under. 
 
 ### 1) Kalle EPJ (FHIR server) direkte fra nettleser
 
