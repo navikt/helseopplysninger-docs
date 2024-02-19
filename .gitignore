@@ -26,3 +26,6 @@ package-lock.json
 
 # Misc
 docs/assets/js/dist
+
+# User specific stuff
+*.DS_Store
