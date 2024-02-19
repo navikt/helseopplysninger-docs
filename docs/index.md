@@ -7,7 +7,7 @@ has_children: true
 # Index page
 ---
 
-# Digital legeerklæring - pleiepenger for sykt barn
+# Digital legeerklæring: pleiepenger for sykt barn
 
 NAV utvikler en digital legeerklæring for pleiepenger sykt barn som på sikt skal
 erstatte [dagens skjema](assets/img/legeerklaering-og-veiledning-pleiepenger-sykt-barn.jpg). Den nye løsningen utvikles i
