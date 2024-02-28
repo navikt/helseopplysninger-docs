@@ -39,3 +39,54 @@ Sekvensdiagrammet over er utarbeidet i [Mermaid Live Editor](https://mermaid.liv
 - Integrert nettleser. Nettleser som kjører inne i DISP Arena. SAMRT on FHIR applikasjoner som vises i denne nettleseren kommer opp som en egen fane i DIPS Arena.
 - k9-legeerklaering-on-fhir-klient. Typescript kode som kjører i den integrerte nettleseren i DIPS Arena. Utviklet av NAV, kildekoden finnes på [GitHub](https://github.com/navikt/k9-legeerklaering-on-fhir) 
 - k9-legeerklaering-on-fhir-server. 
+
+
+## Access token (Payload)
+```
+{
+ nbf: 1709122957,
+ exp: 1709126557,
+ iss: "https://api.dips.no/dips.oauth",
+ aud: [
+  "https://api.dips.no/dips.oauth/resources",
+  "patient/*.read",
+  "launch",
+  "fhirUser"
+ ],
+ client_id: "NAV_legeerklaering",
+ sub: "82e685ca-c0f6-064e-b418-80bb6f28606d",
+ auth_time: 1709122956,
+ idp: "local",
+ name: "NAV-ERIK",
+ dips-ticket: "fa23bf6a-e05d-4173-93f9-01c90c36ab58",
+ dips://ticket: "fa23bf6a-e05d-4173-93f9-01c90c36ab58",
+ hpr-nummer: "987654",
+ dips-firstname: "ERIK",
+ dips-lastname: "NAV",
+ dips-userid: "2018663",
+ dips-username: "NAV-ERIK",
+ dips-userinuse: "True",
+ dips-userwrongpasswordcount: "0",
+ dips-userpasswordchangedtime: "3999-12-31T00:00:00.0000000",
+ dips-userissystemuser: "False",
+ dips-userlastlogintime: "2024-02-22T09:58:49.0000000",
+ dips-userpersonproxyid: "82e685ca-c0f6-064e-b418-80bb6f28606d",
+ dips-userroleid: "1010248",
+ dips-userrolename: "NAV-ERIK Full funksjonstilgang og VID datatilgang (BT)",
+ dips-userrolehospital: "1",
+ dips-hcpid: "1004491",
+ dips-userroledepartment: "22",
+ dips-userroleguid: "c1ec1da6-2c7b-344d-98fb-5db6e11a42ff",
+ dips-audit-corr-id: "5a545476-03e7-4fa5-9bd4-2de410f7798f",
+ scope: [
+  "openid",
+  "profile",
+  "patient/*.read",
+  "launch",
+  "fhirUser"
+ ],
+ amr: [
+  "pwd"
+ ]
+}
+```
