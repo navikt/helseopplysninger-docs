@@ -90,3 +90,4 @@ Sekvensdiagrammet over er utarbeidet i [Mermaid Live Editor](https://mermaid.liv
  ]
 }
 ```
+[Validering av token](https://github.com/navikt/k9-legeerklaering-on-fhir/blob/6d04905f554bca06e40aad18368d0304c21cd767/src/auth/fhir/FhirSession.ts#L35)
