@@ -4,6 +4,7 @@ nav_order: 1
 parent: Teknisk dokumentasjon
 ---
 # Oppstart og innlogging
+{: .no_toc }
 
 ```mermaid
 sequenceDiagram
@@ -51,7 +52,10 @@ Sekvensdiagrammet tar utgangspunkt i [implementasjonsguide SMART App Launch Fram
 DIPS opprettet LauchContext og benytter integrert nettleser for å starte webapplikasjonen med [SMART App Launch Framework](https://www.hl7.org/fhir/smart-app-launch/). Vet ikke i detalj hvordan DIPS gjør dette, eller om rekkefølgen er korrekt i sekvensdiagrammet, men det er ikke så vesentlig for denne dokumentasjonen. Det viktigste her er å få frem samspillet mellom de forskljellige komponentene DIPS og NAV er ansvarlige for.
 
 ## C: Initier launch-sekvens
-URL til NAVs SMART on FHIR 
+Den integrerte nettleseren i DIPS utfører en HTTP GET-forespørsel til https://k9-legeerklaering.ekstern.dev.nav.no/, som er adressen til SMART on FHIR-applikasjonen i testmiljøet, med 'iss' og 'launch' som forespørselsparametere.
+- iss: Identifiserer FHIR-endepunktet til elektronisk pasientjournal (EPJ). Webapplikasjonen benytter dette endepunktet for å innhente flere opplysninger om EPJ, inkludert nettadressen til autorisasjonstjeneren.
+- launch: Fungerer som en unik identifikator for den aktuelle oppstartprosessen. Dette parameteret må formidles tilbake til EPJ ved tidspunktet for autorisasjon.
+
 
 ## Access token (Payload)
 ```
