@@ -5,7 +5,7 @@ parent: Teknisk dokumentasjon
 ---
 # FHIR kall mot EPJ
 
-## Patient
+TODO: Oversikt over alle FHIR kall mot EPJ
 
 ## Opplysningstyper
 Detaljert informasjonsmodel finnes i [HelseopplysningerTypes.ts](https://github.com/navikt/k9-legeerklaering-on-fhir/blob/main/src/integrations/helseopplysningerserver/types/HelseopplysningerTypes.ts)
