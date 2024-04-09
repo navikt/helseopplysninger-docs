@@ -58,7 +58,7 @@ Den integrerte nettleseren i DIPS utfører en HTTP GET-forespørsel til https://
 
 
 ## Access token (Payload)
-```
+```json
 {
  nbf: 1709122957,
  exp: 1709126557,
