@@ -13,7 +13,7 @@ parent: Teknisk dokumentasjon
 {:toc}
 
 ## Patient.GET
-Benyttes for å hente informasjon om aktiv pasient i EPJ. ID til kommer som launch-paremter i oppstartssekvensen til SMART on FHIR. 
+Benyttes for å hente informasjon om aktiv pasient i EPJ. ID til kommer som launch-paramter i oppstartssekvensen til SMART on FHIR. 
 ```json
 {
     "resourceType": "Patient",
